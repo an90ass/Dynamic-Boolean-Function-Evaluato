@@ -1,6 +1,6 @@
 # Dynamic-Boolean-Function-Evaluato
 
-#Genel bakış
+# Genel bakış
 ## Uygulama çalıştığında ilk olarak “boole.txt” adındaki dosyayı okumalıdır. “boole.txt” dosyasında 4-değişkenli ve çarpımların toplamı şeklindeki bir boole fonksiyonu yer almaktadır.
 ## Boole fonksiyonunu oluşturan her bir bileşen birbirinden boşluk karakteri ile ayrılmıştır. Çarpım terimlerini oluşturan literaller (normal veya tümleyen formdaki) bitişik yazılmaktadır.
 ## Fonksiyonun ve ikili değişkenlerin isimleri tek karakterlidir fakat fonksiyon ve değişken isimleri değişebilir.
