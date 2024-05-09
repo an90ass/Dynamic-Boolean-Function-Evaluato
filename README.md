@@ -11,28 +11,4 @@ Program şu üç şeyi ekrana çıktı olarak vermeliyor:
 - Boole fonksiyonunun maksterimlerin çarpımı şeklindeki ifadesi (Hem kısa hem de açık şekilde)
 
 Örnek :
-boole.txt dosyası okundu.
-doğruluk tablosu:
-A B C D F
-0 0 0 0 0
-0 0 0 1 0
-0 0 1 0 0
-0 0 1 1 1
-0 1 0 0 1
-0 1 0 1 0
-0 1 1 0 0
-0 1 1 1 1
-1 0 0 0 1
-1 0 0 1 1
-1 0 1 0 1
-1 0 1 1 1
-1 1 0 0 1
-1 1 0 1 1
-1 1 1 0 1
-1 1 1 1 1
-Fonksiyon İfadeleri:
-F = A’B’CD + A’BC’D’ + A’BCD + AB’C’D’ + AB’C’D + AB’CD’ + AB’CD + ABC’D’ + ABC’D + ABCD’ + ABCD
-F = Σ(3, 4, 7, 8, 9, 10, 11, 12, 13, 14, 15)
-F = (A + B + C + D).(A + B + C + D’).(A + B + C’ + D).(A + B’ + C + D’).(A + B’ + C’ + D)
-F = ∏(0, 1, 2, 5, 6)
-
+![ekr](https://github.com/an90ass/Dynamic-Boolean-Function-Evaluato/assets/91754070/c4a2219c-5dbd-425e-886a-7242f94aef6e)
