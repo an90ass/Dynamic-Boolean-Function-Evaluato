@@ -10,6 +10,6 @@ Program şu üç şeyi ekrana çıktı olarak vermeliyor:
 - Boole fonksiyonunun minterimlerin toplamı şeklindeki ifadesi (Hem kısa hem de açık şekilde)
 - Boole fonksiyonunun maksterimlerin çarpımı şeklindeki ifadesi (Hem kısa hem de açık şekilde)
 
-Örnek :
+## Uygulama çıktısı örneği :
 
 ![ekr](https://github.com/an90ass/Dynamic-Boolean-Function-Evaluato/assets/91754070/c4a2219c-5dbd-425e-886a-7242f94aef6e)
